@@ -15,6 +15,6 @@ libraryDependencies ++= Seq(
 enablePlugins(DebianPlugin)
 maintainer := "Max Smith <max.smith@yourcompany.io>"
 
-packageSummary := "Hello World Debian Package"
+packageSummary := "Hello World Package"
 
 packageDescription := "fun stuff"
