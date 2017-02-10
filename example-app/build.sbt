@@ -13,6 +13,6 @@ libraryDependencies ++= Seq(
 )
 
 enablePlugins(DebianPlugin)
-maintainer := "Jensen Robinson"
+maintainer := "Jensen"
 packageSummary := "WORK DAMNIT"
 packageDescription := "totally not fun"
