@@ -13,8 +13,6 @@ libraryDependencies ++= Seq(
 )
 
 enablePlugins(DebianPlugin)
-maintainer := "Max Smith <max.smith@yourcompany.io>"
-
-packageSummary := "Hello World Package"
-
-packageDescription := "fun stuff"
+maintainer := "Jensen Robinson"
+packageSummary := "WORK DAMNIT"
+packageDescription := "totally not fun"
