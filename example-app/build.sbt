@@ -12,6 +12,6 @@ libraryDependencies ++= Seq(
   javaWs
 )
 enablePlugins(DebianPlugin)
-maintainer := "Jensen Robinson <jensen.robinson@ff.com>"
+maintainer := Jensen Robinson <jensen.robinson@ff.com>
 packageSummary := "Work DAMNIT"
 packageDescription := "totally not fun"
