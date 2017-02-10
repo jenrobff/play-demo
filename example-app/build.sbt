@@ -11,8 +11,7 @@ libraryDependencies ++= Seq(
   cache,
   javaWs
 )
-
 enablePlugins(DebianPlugin)
-maintainer := "Jensen Robinson <jensen.robinson@ff.com"
-packageSummary := "WORK DAMNIT"
+maintainer := "Jensen Robinson <jensen.robinson@ff.com>"
+packageSummary := "Work DAMNIT"
 packageDescription := "totally not fun"
